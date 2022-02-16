@@ -1,6 +1,6 @@
 <h2>Selenium Automation Regression Test</h2>
 <h3> Prerequisites</h2>
-<p>This project requires Python environment and Python 3.7+</p>
+<p>This project requires Python 3x environment</p>
 <h3> Chrome Driver Compatibility</h3>
 <p>Current chrome driver is compatible with Chrome Version 98.0.4758.102</p>
 <h3>Installation</h3>
